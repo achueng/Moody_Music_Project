@@ -20,7 +20,4 @@ Agnes Chueng (github profile: https://github.com/achueng)
 Juston Yocus (github profile: https://github.com/jyocus)
 Ben Resnicoff (github profile: https://github.com/benres2008)
 
-
-License: MIT License 
-
-Copyright (C) 2020 Ben Resnicoff, Chris Kalama, Agnes Chueng, Justin Yocus
+Copyright 2020 [Ben Resnicoff](https://github.com/benres2008), [Chris Kalama](https://github.com/ckalama), [Agnes Chueng](https://github.com/achueng), [Justin Yocus](https://github.com/jyocus)
