@@ -9,6 +9,8 @@ https://ckalama.github.io/Moody_Music_Project/
 
 Our website allows users to click a button based on their current mood. They then receieve a song request based on said mood. It's that simple! Our motivation for this project came from our shared passion for music, and our constant desire to explore and find new artists and songs. We built this project in order to give our users the opportunity to expand their musical knowledge, and in the process, we expanded ours (there are quite a few foreign songs that pop up from our API that we haveobiously never heard of). 
 
+![Moody Music Preview](./Assets/Moody-Music.png)
+
 ## Usage
 
 Users can click each button depending on their mood to receive a song recomendation. They can also navigate the website with our Nav Bar.
